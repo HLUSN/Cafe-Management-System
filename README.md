@@ -1,4 +1,4 @@
-For the web application "react frame work".
+For the web application "react frame work".It is in the master branch.
 for the desktop application "ASP. Net C#".
 Data base "SQLite". 
 Recalling Desktop application is having 2 modules.(Admin and Guest).
